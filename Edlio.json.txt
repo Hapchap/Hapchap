@@ -1,0 +1,42 @@
+[
+    {
+        "recId": 15492,
+        "projectId": "RDSES",
+        "websiteName": "153rd Street Elementary School",
+        "wwwSiteURL": "153rdstes.lausd.org",
+        "adminSiteURL": "admin-153rdstes.lausd.org",
+        "status": "LIVE"
+    },
+    {
+        "recId": 15513,
+        "projectId": "SUNBAE",
+        "websiteName": "Sunny Brae Avenue Elementary",
+        "wwwSiteURL": "sunnybraemages.lausd.org",
+        "adminSiteURL": "admin-sunnybraemages.lausd.org",
+        "status": "LIVE"
+    },
+    {
+        "recId": 15637,
+        "projectId": "CONLCOSJ",
+        "websiteName": "Contreras Learning Center-School of Social Justice",
+        "wwwSiteURL": "contrerassocjushs.lausd.org",
+        "adminSiteURL": "admin-contrerassocjushs.lausd.org",
+        "status": "LIVE"
+    },
+    {
+        "recId": 15639,
+        "projectId": "LORSE",
+        "websiteName": "Lorne Street Elementary",
+        "wwwSiteURL": "lornestes.lausd.org",
+        "adminSiteURL": "admin-lornestes.lausd.org",
+        "status": "LIVE"
+    },
+    {
+        "recId": 15642,
+        "projectId": "GERALSA",
+        "websiteName": "Gerald A. Lawson STEAM Academy",
+        "wwwSiteURL": "lawsonacades.lausd.org",
+        "adminSiteURL": "admin-lawsonacades.lausd.org",
+        "status": "LIVE"
+    },
+]
